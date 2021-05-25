@@ -1,1 +1,3 @@
-<h2><b>McMods is a repository of almost all current minecraft mods</b></h2>
+
+
+<h2><italic><bold>McMods is a repository of almost all current minecraft mods</bold></italic></h2>
